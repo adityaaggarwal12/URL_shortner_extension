@@ -11,7 +11,7 @@ A chrome extension to shorten long URLs
  Turn on Developer Options and click on load unpacked
  and load the files and extension will be loaded
 
- Right click on extension and click options and enter yout t.ly api key
+ Right click on extension and click options and enter your t.ly api key
 
  To get the api key make an account on t.ly
 
