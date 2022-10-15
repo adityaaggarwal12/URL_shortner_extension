@@ -1,0 +1,23 @@
+{
+    "manifest_version": 3,
+    "name": "A Simple URL Shortner",
+    "description": "Shorten your URLs",
+    "version": "1.0",
+    "icons": {
+        "48": "icons48.png",
+        "96": "icons96.png",
+        "128": "logo.png",
+        "144": "icons144.png"
+    },
+    "action": {
+      "default_popup": "popup.html",
+      "default_icon": "hello_extensions.png"
+    },
+    "options_ui": {
+        "page": "option.html",
+        "open_in_tab": false
+    },
+    "permissions": [
+      "storage"
+    ]
+}
