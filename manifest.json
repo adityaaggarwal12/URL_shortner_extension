@@ -10,8 +10,7 @@
         "144": "icons144.png"
     },
     "action": {
-      "default_popup": "popup.html",
-      "default_icon": "hello_extensions.png"
+      "default_popup": "popup.html"
     },
     "options_ui": {
         "page": "option.html",
