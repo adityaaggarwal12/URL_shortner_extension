@@ -2,7 +2,7 @@
 # URL Shortner Extension
 
 A chrome extension to shorten long URLs
-![ScreenShot](./Screenshot.png)
+![ScreenShot](./Screenshot1.png)
 
 ## HOW TO USE
  Download the files
